@@ -1,6 +1,6 @@
 # Project Overview – Drone Delights
 
-**Drone Delights** is a responsive web shop built as a full-stack application. The project focuses on creating a simple but complete e-commerce experience with authentication, a custom backend, and a responsive interface that works on both desktop and mobile devices.
+**Drone Delights** is a responsive food delivery service built as a full-stack application. The project focuses on creating a simple but complete e-commerce experience with authentication, a custom backend, and a responsive interface that works on both desktop and mobile devices.
 
 The goal was to build a realistic web application that demonstrates the full development process—from design and architecture to implementation and refinement.
 
